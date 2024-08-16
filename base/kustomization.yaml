@@ -3,4 +3,3 @@ kind: Kustomization
 namespace: flux-green
 resources:
   - deployment.yaml
-  - namespace.yaml
