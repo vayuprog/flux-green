@@ -6,6 +6,7 @@ metadata:
   labels:
     app: nginx
     dev: develop-green
+    component: nginx
 spec:
   selector:
     matchLabels:
